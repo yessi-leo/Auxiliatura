@@ -1,4 +1,0 @@
-123457,Belinda,Guitierres,Leon,21,Calculo,90.0
-123458,Anderson,Linares,Mendoza,22,Estadistica,92.5
-123459,Ana,Limachi,Silva,19,Calculo,88.0
-123457,Belinda,Guitierres,Leon,21,Estadistica,90.0
