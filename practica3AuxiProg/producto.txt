@@ -1,0 +1,10 @@
+1001,Laptop,2200.0
+1002,Mouse,20.0
+1003,Teclado,45.0
+1004,Monitor,300.0
+1005,Tablet,1000.0
+1001,Laptop,2200.0
+1002,Mouse,20.0
+1003,Teclado,45.0
+1004,Monitor,300.0
+1005,Tablet,1000.0
